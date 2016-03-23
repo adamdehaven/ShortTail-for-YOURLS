@@ -1,4 +1,4 @@
-#ShortTail for YOURLS v1.6.5
+#ShortTail for YOURLS
 ShortTail is an elegant, easy-to-use YOURLS client that talks to your server through an integrated API to shorten web links using your branded domain. 
 
 To use ShortTail, you must be running a YOURLS installation on an active domain. For more info, please visit [yourls.org](http://yourls.org)
