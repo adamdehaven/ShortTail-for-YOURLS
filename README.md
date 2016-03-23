@@ -65,7 +65,9 @@ javascript:(function()%7Bjavascript%3Awindow.location.href%3D'ShortTail%3A%2F%2F
 To use the bookmarklet when viewing a webpage in Safari that you'd like to send to ShortTail, simply open your bookmarks, and tap your newly created bookmarklet. This will open ShortTail and automagically paste in the complete URL. 
 
 ##Support
-Do you have questions? Would you like to contribute? Are there features you'd love to see? Feel free to fork the project, [open an issue on GitHub](https://github.com/adamdehaven/ShortTail-for-YOURLS/issues), or submit a pull request. Not into looking at code? No worries. Reach out on Twitter [@adamdehaven](http://twitter.com/adamdehaven).
+Do you have questions? Would you like to contribute? Something else? Feel free to fork the project, [open an issue](https://github.com/adamdehaven/ShortTail-for-YOURLS/issues), or submit a pull request. 
+
+Not into looking at code? No worries. Reach out on Twitter [@adamdehaven](http://twitter.com/adamdehaven).
 
 ##License
 Released under the [MIT License](https://github.com/adamdehaven/ShortTail-for-YOURLS/blob/master/LICENSE).
