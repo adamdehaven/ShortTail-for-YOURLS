@@ -1,6 +1,6 @@
 #ShortTail for YOURLS
 [![GitHub release](https://img.shields.io/github/release/adamdehaven/ShortTail-for-YOURLS.svg?maxAge=3600)](https://github.com/adamdehaven/ShortTail-for-YOURLS/archive/master.zip) 
-[![GitHub commits](https://img.shields.io/github/commits-since/adamdehaven/ShortTail-for-YOURLS/v1.6.5.svg?maxAge=3600)](https://github.com/adamdehaven/ShortTail-for-YOURLS/commits/master) 
+[![GitHub commits](https://img.shields.io/github/commits-since/adamdehaven/ShortTail-for-YOURLS/v1.6.5.svg?maxAge=3600)](https://github.com/adamdehaven/ShortTail-for-YOURLS/compare/v1.6.5...master) 
 [![GitHub issues](https://img.shields.io/github/issues/adamdehaven/ShortTail-for-YOURLS.svg?maxAge=3600)](https://github.com/adamdehaven/ShortTail-for-YOURLS/issues) 
 [![license](https://img.shields.io/github/license/adamdehaven/ShortTail-for-YOURLS.svg?maxAge=3600)](https://raw.githubusercontent.com/adamdehaven/ShortTail-for-YOURLS/master/LICENSE)
 
