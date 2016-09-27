@@ -1239,9 +1239,9 @@
 - (IBAction)openShortTailAppCom {
     
     [settings setBool:YES forKey:@"openLink"];
-    NSString *url = @"http://shorttailapp.com/";
+    NSString *url = @"http://adamdehaven.com/blog/2015/05/shorttail-for-yourls-an-elegant-yourls-client-for-iphone/";
     [settings setObject:[NSString stringWithFormat:@"%@?utm_source=ShortTail_for_iOS&utm_medium=ShortTail_App&utm_campaign=ShortTail", url] forKey:@"urlToOpen"];
-    [settings setObject:@"ShortTail | An elegant YOURLS client for iPhone" forKey:@"urlToOpenTitle"];
+    [settings setObject:@"ShortTail - An elegant YOURLS client for iPhone | Adam DeHaven" forKey:@"urlToOpenTitle"];
     [settings setObject:url forKey:@"urlToOpenDisplayLink"];
     [settings synchronize];
     [self.presentingViewController dismissViewControllerAnimated:YES completion:nil];

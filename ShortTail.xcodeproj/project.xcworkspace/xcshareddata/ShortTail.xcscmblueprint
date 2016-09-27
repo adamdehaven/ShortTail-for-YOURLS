@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "70A70C2C4B5C8408B86E7329F7FD0439E3D214C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0850FE15283922D7F32BA3C334F97D06B2841F8B" : 0,
+    "70A70C2C4B5C8408B86E7329F7FD0439E3D214C5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4AABA9F9-57A3-4EDF-B65C-4CBA0BE246FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0850FE15283922D7F32BA3C334F97D06B2841F8B" : "ShortTail",
+    "70A70C2C4B5C8408B86E7329F7FD0439E3D214C5" : "ShortTail-for-YOURLS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShortTail",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShortTail.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adamdehaven\/ShortTail.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0850FE15283922D7F32BA3C334F97D06B2841F8B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adamdehaven\/ShortTail-for-YOURLS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70A70C2C4B5C8408B86E7329F7FD0439E3D214C5"
+    }
+  ]
+}
