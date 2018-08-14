@@ -21,7 +21,7 @@ To use ShortTail, you must be running a YOURLS installation on an active domain.
 * UI Improvements
 * Updated supporting libraries
 
-=====
+---
 
 ## Features: 
 * Shorten URLS using your branded URL and a YOURLS installation on your active domain 
